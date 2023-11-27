@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;600;700;800&display=swap');
+
+.mail{
+    color: #1F1E2D;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Sen', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.96px;
+    text-transform: uppercase;
+    position: relative;
+        left: 340px;
+        max-width: 50%;
+        padding-top: 30px;
+    }
+    .socio{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 50%;
+    }
+    .socio h5{
+    color:  #1F1E2D;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Sen', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.96px;
+    text-transform: uppercase;
+    position: relative;
+        left: 340px;
+        max-width: 50%;
+        padding-top: 30px;
+    }
+    .socio p{
+    color:  #A9A8B7;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Sen', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.96px;
+    text-transform: uppercase;
+    position: relative;
+        left: 340px;
+        max-width: 50%;
+        padding-top: 30px;
+    }
+    
